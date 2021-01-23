@@ -6,3 +6,5 @@ User Create Endpoint Test
 User Login Endpoint Test
 ![User Login Endpoint Test](https://user-images.githubusercontent.com/73564667/105610743-2a7d0c00-5d7f-11eb-9835-19a196bd41a5.png)
 
+User Login Endpoint Test - User Does Not Exist
+![User Login Endpoint Test - User Does Not Exist](https://user-images.githubusercontent.com/73564667/105610873-feae5600-5d7f-11eb-8a79-ad27a6d2f6dc.png)
