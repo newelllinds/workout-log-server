@@ -15,4 +15,7 @@ User Create Endpoint Test with JWT
 User Login Endpoint Test with JWT
 ![User Login Endpoint Test with JWT](https://user-images.githubusercontent.com/73564667/105611565-11c32500-5d84-11eb-9ae0-917fc8259e50.png)
 
+User Create Endpoint Test with Bcrypt
+![User Create Endpoint Test with Bcrypt](https://user-images.githubusercontent.com/73564667/105611733-0290a700-5d85-11eb-995b-ce8390cd3949.png)
+
 
