@@ -12,3 +12,7 @@ User Login Endpoint Test - User Does Not Exist
 User Create Endpoint Test with JWT
 ![User Create Endpoint Test with JWT](https://user-images.githubusercontent.com/73564667/105611529-f3f5c000-5d83-11eb-8bdc-047505435030.png)
 
+User Login Endpoint Test with JWT
+![User Login Endpoint Test with JWT](https://user-images.githubusercontent.com/73564667/105611565-11c32500-5d84-11eb-9ae0-917fc8259e50.png)
+
+
