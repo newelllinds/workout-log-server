@@ -24,4 +24,7 @@ Get Log by ID (/log/:id) Endpoint Test
 Get Log by ID (No Token) Endpoint Test
 ![Get Log by ID (No Token) Endpoint Test](https://user-images.githubusercontent.com/73564667/105633662-dc701300-5e27-11eb-86f4-80eaaf641b97.png)
 
+Get All Logs for Individual User Endpoint Test
+![Get All Logs for Individual User (:log:) Endpoint Test](https://user-images.githubusercontent.com/73564667/105634595-bbf68780-5e2c-11eb-836d-18af30427cca.png)
+
 
