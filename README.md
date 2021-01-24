@@ -30,4 +30,11 @@ Get All Logs for Individual User Endpoint Test
 Get All Logs for Individual User (No Token) Endpoint Test
 ![Get All Logs for Individual User (No Token) Endpoint Test](https://user-images.githubusercontent.com/73564667/105634643-17287a00-5e2d-11eb-93fa-86cf75d9a30d.png)
 
+Update Log by ID for Individual User Endpoint Test pgAdmin
+![Update Log by ID for Individual User Endpoint Test pgAdmin](https://user-images.githubusercontent.com/73564667/105634842-00365780-5e2e-11eb-8fe5-f3fe2f351860.png)
+
+Update Log by ID for Individual User Endpoint Test Postman
+![Update Log by ID for Individual User Endpoint Test Postman](https://user-images.githubusercontent.com/73564667/105634843-0298b180-5e2e-11eb-8bf1-dda65950f158.png)
+
+
 
