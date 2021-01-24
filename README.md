@@ -15,4 +15,8 @@ User Login Endpoint Test with Bcrypt
 User Register Endpoint Test
 ![User Register Endpoint Test](https://user-images.githubusercontent.com/73564667/105612364-abd99c00-5d89-11eb-85c4-9e29f4739ce9.png)
 
+Create Log (/log/ POST) Endpoint Test
+![Create Log (:log: POST) Endpoint Test](https://user-images.githubusercontent.com/73564667/105632888-95801e80-5e23-11eb-9675-b37d9d9ce716.png)
+
+
 
