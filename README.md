@@ -21,4 +21,7 @@ Create Log (/log/ POST) Endpoint Test
 Get Log by ID (/log/:id) Endpoint Test
 ![Get Log by ID Endpoint Test](https://user-images.githubusercontent.com/73564667/105633593-80a58a00-5e27-11eb-94e8-233799cb1bcb.png)
 
+Get Log by ID (No Token) Endpoint Test
+![Get Log by ID (No Token) Endpoint Test](https://user-images.githubusercontent.com/73564667/105633662-dc701300-5e27-11eb-86f4-80eaaf641b97.png)
+
 
