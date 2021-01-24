@@ -36,5 +36,9 @@ Update Log by ID for Individual User Endpoint Test pgAdmin
 Update Log by ID for Individual User Endpoint Test Postman
 ![Update Log by ID for Individual User Endpoint Test Postman](https://user-images.githubusercontent.com/73564667/105634843-0298b180-5e2e-11eb-8bf1-dda65950f158.png)
 
+Delete Individual Log by User Endpoint Test
+![Delete Individual Log by User Endpoint Test](https://user-images.githubusercontent.com/73564667/105634970-9ec2b880-5e2e-11eb-9604-1efd85469fb7.png)
+
+
 
 
