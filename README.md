@@ -18,5 +18,7 @@ User Register Endpoint Test
 Create Log (/log/ POST) Endpoint Test
 ![Create Log (:log: POST) Endpoint Test](https://user-images.githubusercontent.com/73564667/105632888-95801e80-5e23-11eb-9675-b37d9d9ce716.png)
 
+Get Log by ID (/log/:id) Endpoint Test
+![Get Log by ID Endpoint Test](https://user-images.githubusercontent.com/73564667/105633593-80a58a00-5e27-11eb-94e8-233799cb1bcb.png)
 
 
