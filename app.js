@@ -7,6 +7,8 @@ let user = require('./controllers/usercontroller')
 
 sequelize.sync();
 
+app.use(require('./middleware.headers'));
+
 app.use(express.json());
 
 app.use('/log', log);
